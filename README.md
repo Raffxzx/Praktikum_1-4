@@ -380,4 +380,4 @@ Fitur bagi pengunjung untuk melihat informasi kontak atau mengirim pesan kepada 
 <img width="1920" height="1080" alt="Contack Akun user" src="https://github.com/user-attachments/assets/916053ab-da43-4bd8-b7c1-3163c1b95a6a" />
 
 ---
-**© 2026 Rizky Maulana - Universitas Pelita Bangsa**
+**© 2026 M Rafi Al Hakim - Universitas Pelita Bangsa**
