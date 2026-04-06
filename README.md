@@ -3,11 +3,10 @@
 **Laporan Praktikum Pemrograman Web - Lab 11**
 
 ## 👨‍💻 Profil Mahasiswa
-* **Nama:** Rizky Maulana
-* **NIM:** 312410430
+* **Nama:** M Rafi Al Hakim
+* **NIM:** 312410403
 * **Kelas:** I241C
 * **Mata Kuliah:** Pemrograman Web
-* **GitHub Utama:** [RizkyMaulana-design](https://github.com/RizkyMaulana-design)
 
 ---
 
